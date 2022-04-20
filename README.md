@@ -1,0 +1,2 @@
+# simpliNUMPY.PY
+NUMPY PRACTICE
